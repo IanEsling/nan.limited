@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+header.h1 {
+    background-image: url(/assets/images/logo-background.png);
+    background-position: top center;
+    background-size: contain;
+}
