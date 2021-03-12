@@ -10,6 +10,6 @@ Number6 is an AWS application that performs sentiment analysis on Slack messages
 Software development consulting services available, deep experience across various domains working with companies ranging from early stage start-ups to global enterprises.
 
 ### Contact
-[info@ylem.ltd](mailto:info@ylem.ltd)
+[contact@ylem.ltd](mailto:contact@ylem.ltd)
 
 
