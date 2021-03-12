@@ -1,16 +1,15 @@
-# Ylem Software Ltd
+### Ylem Software provides software development consulting services, and a home for open source software projects.
 
-## Welcome!
+#### Fyodor 
+Fyodor is a Java library for generating random data to populate test objects. It's especially useful when trying to test complex, legacy codebases that don't have great test coverage, see http://www.fyodor.org.uk for more details.
 
-This is all about the Ylem software company
+#### Number6
+Number6 is an AWS application that performs sentiment analysis on Slack messages, see https://number6.dev for more details.
 
-## Stay Awhile!
+#### Consulting
+Software development consulting services available, deep experience across various domains working with companies ranging from early stage start-ups to global enterprises.
 
-Oh yes it is 
-### stay...
+#### Contact
+info@ylem.ltd
 
-and so is this bit
 
-#### forever
-
-yep this too
